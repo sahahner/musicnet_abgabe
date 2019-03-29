@@ -1,0 +1,32 @@
+Semitones & Chord & Frequency of Pitch Difference \\ 
+  \hlineB{2} 
+\rowcolor{lightlightgray}0 & Perfect unison & 14.16\% \\ 
+12 & Perfect octave & 8.0\% \\ 
+\rowcolor{lightlightgray}3 & Minor third & 5.68\% \\ 
+7 & Perfect fifth & 5.41\% \\ 
+\rowcolor{lightlightgray}5 & Perfect fourth & 5.32\% \\ 
+4 & Major third & 4.28\% \\ 
+\rowcolor{lightlightgray}9 & Major sixth & 4.23\% \\ 
+2 & Major second & 4.06\% \\ 
+\rowcolor{lightlightgray}8 & Minor sixth & 3.49\% \\ 
+24 & Double octave & 3.18\% \\ 
+\rowcolor{lightlightgray}19 &  & 3.11\% \\ 
+17 &  & 2.84\% \\ 
+\rowcolor{lightlightgray}16 &  & 2.79\% \\ 
+1 & Minor second & 2.77\% \\ 
+\rowcolor{lightlightgray}15 &  & 2.67\% \\ 
+10 & Minor seventh & 2.56\% \\ 
+\rowcolor{lightlightgray}6 & Tritone & 2.41\% \\ 
+21 &  & 1.93\% \\ 
+\rowcolor{lightlightgray}14 &  & 1.83\% \\ 
+20 &  & 1.62\% \\ 
+\rowcolor{lightlightgray}28 &  & 1.39\% \\ 
+22 &  & 1.31\% \\ 
+\rowcolor{lightlightgray}29 &  & 1.23\% \\ 
+31 &  & 1.23\% \\ 
+\rowcolor{lightlightgray}27 &  & 1.22\% \\ 
+11 & Major seventh & 1.19\% \\ 
+\rowcolor{lightlightgray}18 &  & 1.16\% \\ 
+36 &  & 0.96\% \\ 
+\rowcolor{lightlightgray}26 &  & 0.91\% \\ 
+13 &  & 0.89\% \\ 

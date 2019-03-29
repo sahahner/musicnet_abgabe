@@ -1,0 +1,11 @@
+code/data/
+code/.ipynb_checkpoints
+code/logs/
+code/models
+code/transferred_code/
+code/old_code/
+code/lib/__pycache__/
+checkpoint
+*.data-00000-of-00001
+*.meta
+*.index
