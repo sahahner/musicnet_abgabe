@@ -4,7 +4,7 @@ Master Project WS 2018/19 University of Bonn
 
 ## The Dataset: MusicNet
 
-The dataset and the Data Augmentation methods are demonstrated in [01_music_demonstration_py27.ipynb]https://github.com/sahahner/musicnet_abgabe/blob/master/01_music_demonstration_py27.ipynb)
+The dataset and the Data Augmentation methods are demonstrated in [01_music_demonstration_py27.ipynb](https://github.com/sahahner/musicnet_abgabe/blob/master/01_music_demonstration_py27.ipynb)
 
 The pitch differences between adjasent windows (as presented in the documentation) where calculated by 
 [02_plot_pitch_differences_whole_set_p3.ipynb](https://github.com/sahahner/musicnet_abgabe/blob/master/02_plot_pitch_differences_whole_set_p3.ipynb)
@@ -29,8 +29,10 @@ An LSTM-cell was included after the feed-forward layer in its original version.
 Different hyperparameters were tested for the bidirectional recurrent neural network.
 
 The versions of the bidirectional recurrent neural networl are defined in the [versions-file](https://github.com/sahahner/musicnet_abgabe/blob/master/lib/versions_norm.py).
-When only interested in the results, the ipython notebook [05_3layer-LSTM-norm_train.ipynb](https://github.com/sahahner/musicnet_abgabe/blob/master/05_3layer-LSTM-norm_train.ipynb)
+When only interested in the results, this [ipython notebook](https://github.com/sahahner/musicnet_abgabe/blob/master/05_3layer-LSTM-norm_results.ipynb)
 illustrates them nicely. In the beginning the selected version has to be chosen as named in the versions-file.
+
+The training can be done using this [ipyhton notebook](https://github.com/sahahner/musicnet_abgabe/blob/master/05_3layer-LSTM-norm_train.ipynb).
 
 ## Visualizations
 
@@ -39,4 +41,4 @@ The plots, included in the documentation, are also saved here.
 
 ## Documentation
 
-Finally, the final report and presentation can be found in the directory [documentation](https://github.com/sahahner/musicnet_abgabe/tree/master/documentation)
+Finally, the final report and presentation can be found in the directory [documentation](https://github.com/sahahner/musicnet_abgabe/tree/master/documentation).
